@@ -1,20 +1,21 @@
 'use client'
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import { useRouter } from 'next/navigation'
 import ResultsDashboard from '@/components/ResultsDashboard'
 import type { AnalysisResponse, CaseData } from '@/lib/case/caseTypes'
 
 export default function ResultsPage() {
   const router = useRouter()
-  const [result, setResult] = useState<AnalysisResponse | null>(null)
-  const [caseData, setCaseData] = useState<CaseData | null>(null)
-
-  useEffect(() => {
-    const r = sessionStorage.getItem('analysisResult')
-    const c = sessionStorage.getItem('caseData')
-    if (r) setResult(JSON.parse(r))
-    if (c) setCaseData(JSON.parse(c))
-  }, [])
+  const [result] = useState<AnalysisResponse | null>(() => {
+    if (typeof window === 'undefined') return null
+    const stored = sessionStorage.getItem('analysisResult')
+    return stored ? JSON.parse(stored) : null
+  })
+  const [caseData] = useState<CaseData | null>(() => {
+    if (typeof window === 'undefined') return null
+    const stored = sessionStorage.getItem('caseData')
+    return stored ? JSON.parse(stored) : null
+  })
 
   if (!result) {
     return (

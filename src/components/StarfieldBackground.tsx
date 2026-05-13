@@ -27,11 +27,13 @@ export default function StarfieldBackground() {
   useEffect(() => {
     const canvas = canvasRef.current
     if (!canvas) return
-    const ctx = canvas.getContext('2d')
-    if (!ctx) return
+    const context = canvas.getContext('2d')
+    if (!context) return
+    const canvasElement: HTMLCanvasElement = canvas
+    const ctx: CanvasRenderingContext2D = context
 
     const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches
-    let dpr = Math.min(window.devicePixelRatio || 1, 2)
+    const dpr = Math.min(window.devicePixelRatio || 1, 2)
     let width = 0
     let height = 0
     let stars: Star[] = []
@@ -40,10 +42,10 @@ export default function StarfieldBackground() {
     let t = 0
 
     function resize() {
-      width = canvas.offsetWidth
-      height = canvas.offsetHeight
-      canvas.width = width * dpr
-      canvas.height = height * dpr
+      width = canvasElement.offsetWidth
+      height = canvasElement.offsetHeight
+      canvasElement.width = width * dpr
+      canvasElement.height = height * dpr
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0)
 
       const target = Math.floor((width * height) / 4500)

@@ -8,7 +8,10 @@ import { composeFinalResponse } from '@/lib/agents/finalComposer'
 import { retrieveKnowledgeChunks, retrieveDocumentChunks } from '@/lib/rag/retriever'
 import { buildRetrievalQueries } from '@/lib/rag/queryCompressor'
 import { buildCaseFacts, buildKnowledgeContext, buildEvidenceContext } from '@/lib/rag/contextBuilder'
+import { persistAnalysisToNeo4j } from '@/lib/neo4j/queryApi'
 import type { AnalysisRequest, AnalysisResponse, RetrievedSource } from '@/lib/case/caseTypes'
+
+export const runtime = 'nodejs'
 
 function withRetrievalGroup(sources: RetrievedSource[], group: string): RetrievedSource[] {
   return sources.map((source) => ({ ...source, retrievalGroup: group }))
@@ -104,6 +107,12 @@ export async function POST(request: Request) {
         estimatedTokensSaved: `Only ${allSources.length} of ~${totalChunksAvailable} available chunks sent to the model, reducing context by ~${Math.round((1 - allSources.length / totalChunksAvailable) * 100)}%.`,
         retrievalStrategy: `Per-deduction hybrid retrieval across ${retrievalQueries.length} focused queries`,
       },
+    }
+
+    try {
+      await persistAnalysisToNeo4j({ request: body, response })
+    } catch (err) {
+      console.error('Neo4j persistence error:', err)
     }
 
     return Response.json(response)
