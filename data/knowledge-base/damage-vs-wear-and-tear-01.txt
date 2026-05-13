@@ -1,0 +1,156 @@
+# Tenant Damage vs Fair Wear and Tear
+
+## Overview
+
+In tenancy deposit disputes, adjudicators must distinguish between:
+
+* fair wear and tear caused by ordinary use of the property
+* tenant damage caused by negligence, misuse, accident, or breach of tenancy obligations
+
+This distinction is central to deposit adjudication in England and Wales.
+
+The tenancy deposit remains the tenant’s money unless the landlord proves, on the balance of probabilities, that the tenant caused loss beyond fair wear and tear. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+# Definition of Fair Wear and Tear
+
+The House of Lords defines fair wear and tear as:
+
+> “reasonable use of the premises by the tenant and the ordinary operation of natural forces” ([custodial.tenancydepositscheme.com][1])
+
+Fair wear and tear refers to deterioration that occurs naturally through normal occupation over time.
+
+Examples commonly treated as fair wear and tear include:
+
+* worn carpets from foot traffic
+* faded paint or curtains
+* minor wall scuffs
+* loose hinges or handles from ordinary use
+* slight surface scratches
+* furniture indentations in carpets
+
+These issues are generally not chargeable to tenants. ([mydeposits][2])
+
+---
+
+# Definition of Tenant Damage
+
+Tenant damage refers to deterioration caused by negligence, carelessness, misuse, accidental damage, or unauthorised actions.
+
+Examples commonly treated as damage include:
+
+* iron burns on carpets
+* nail varnish spills
+* deep scratches or gouges
+* broken fixtures
+* large wall holes
+* burns, stains, or tears
+* missing items
+* unauthorised redecoration
+
+Damage may justify deductions where supported by evidence. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+# Practical Tenancy Examples
+
+| Issue                                               | Likely Classification |
+| --------------------------------------------------- | --------------------- |
+| Carpet flattened after 4-year tenancy               | Fair wear and tear    |
+| Carpet stained with bleach                          | Tenant damage         |
+| Minor wall scuffs in hallway                        | Fair wear and tear    |
+| Large holes from mounted shelves without permission | Tenant damage         |
+| Fading curtains from sunlight                       | Fair wear and tear    |
+| Broken internal door from impact                    | Tenant damage         |
+| Worn kitchen worktops from ordinary use             | Fair wear and tear    |
+| Cigarette burns on flooring                         | Tenant damage         |
+
+Adjudicators assess each case individually based on evidence and context. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+# Factors Considered by Adjudicators
+
+There is no fixed formula for calculating fair wear and tear.
+
+Adjudicators commonly consider:
+
+## Length of Tenancy
+
+Longer tenancies naturally result in greater deterioration.
+
+## Number and Type of Occupants
+
+Larger households and families with children generally create more ordinary wear than single occupants.
+
+## Age and Quality of Items
+
+Older or lower-quality items are expected to deteriorate faster through ordinary use.
+
+## Expected Lifespan
+
+Adjudicators assess whether an item had already partially depreciated before the tenancy ended. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+# Betterment
+
+Landlords cannot use deposit deductions to improve the property or obtain “new for old” replacement value.
+
+This principle is known as betterment.
+
+Examples of unreasonable betterment include:
+
+* charging full replacement cost for an old carpet
+* upgrading damaged items to superior replacements at tenant expense
+* claiming professional cleaning where the property was not professionally cleaned at check-in
+
+Adjudicators may reduce awards to reflect depreciation, lifespan, and ordinary use. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+# Evidence Requirements in Deposit Disputes
+
+Deposit disputes are evidence-based.
+
+Strong evidence commonly includes:
+
+* signed tenancy agreements
+* signed check-in inventories
+* signed check-out reports
+* date-stamped photographs or videos
+* inspection reports
+* invoices and receipts
+* correspondence between landlord and tenant
+* witness statements
+
+Comparative evidence showing property condition at both the start and end of the tenancy is especially important. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+# Landlord Proof Obligations
+
+The burden of proof rests with the landlord.
+
+The landlord must demonstrate:
+
+1. the original condition of the property
+2. deterioration beyond fair wear and tear
+3. financial loss suffered
+4. that the proposed deduction is reasonable
+
+Without reliable check-in evidence, claims for cleaning or damage are significantly weakened and may fail entirely. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+# Cleaning and Wear and Tear
+
+Fair wear and tear applies to condition, not cleanliness.
+
+Tenants are generally expected to return the property cleaned to the same standard as at check-in.
+
+However, landlords cannot claim for a higher cleaning standard than existed at the start of the tenancy. Claims for professional cleaning may fail if the original inventory does not demonstrate professional-level cleanliness. ([mydeposits][2])
+
+[1]: https://custodial.tenancydepositscheme.com/public/support/joint-scheme-guide-to-deposits-disputes-and-damages-digital.pdf?utm_source=chatgpt.com "Key Documents"
+[2]: https://www.mydeposits.co.uk/content-hub/fair-wear-and-tear-what-is-it-and-how-is-it-applied/?utm_source=chatgpt.com "Wear and tear in renting: What it means and how it is applied"

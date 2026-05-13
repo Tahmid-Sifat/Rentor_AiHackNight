@@ -1,0 +1,203 @@
+# Tenancy Deposit Dispute Resolution and ADR Procedures
+
+## Overview
+
+Tenancy deposit dispute resolution provides a formal process for resolving disagreements between landlords and tenants about the return of a tenancy deposit at the end of a tenancy.
+
+All authorised tenancy deposit protection schemes in England and Wales provide a free Alternative Dispute Resolution (ADR) service as an alternative to court proceedings. ([custodial.tenancydepositscheme.com][1])
+
+ADR is an evidence-based adjudication process designed to determine how disputed deposit funds should be distributed fairly.
+
+---
+
+# End of Tenancy Process
+
+At the end of the tenancy, the landlord and tenant should inspect the property and compare its condition against the original inventory and tenancy records.
+
+A check-out inspection should ideally be completed as soon as possible after the tenant vacates and returns the keys.
+
+In many cases, the parties agree how the deposit should be repaid and the matter concludes without formal dispute resolution. ([custodial.tenancydepositscheme.com][1])
+
+Where agreement cannot be reached, either party may escalate the matter to the tenancy deposit scheme’s ADR process.
+
+---
+
+# Dispute Escalation Process
+
+## Initial Disagreement
+
+Disputes commonly arise concerning:
+
+* cleaning deductions
+* damage claims
+* missing items
+* rent arrears
+* gardening or maintenance costs
+* fair wear and tear
+
+The parties are encouraged to continue negotiating before adjudication begins.
+
+Many disputes can be resolved through direct communication and clarification of evidence. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+## Referral to ADR
+
+If negotiation fails, the disputed amount of the deposit enters the tenancy deposit scheme’s dispute resolution process.
+
+The scheme will request evidence from both parties within specified deadlines. Each scheme has its own procedural timescales and submission requirements. ([custodial.tenancydepositscheme.com][1])
+
+The adjudicator then reviews the submitted evidence and determines how the disputed amount should be allocated.
+
+---
+
+# What ADR Is — and Is Not
+
+ADR in tenancy deposit disputes is:
+
+* independent
+* impartial
+* evidence-based
+* binding once accepted
+
+ADR is not:
+
+* mediation
+* counselling
+* negotiation between parties
+
+The parties are not normally required to:
+
+* attend hearings
+* meet the adjudicator
+* provide oral testimony
+
+Adjudicators do not usually visit the property involved in the dispute. Decisions are made solely on documentary and photographic evidence submitted by the parties. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+# Adjudication Principles
+
+## Balance of Probabilities
+
+Adjudicators decide disputes using the civil standard of proof known as the “balance of probabilities”.
+
+The adjudicator assesses whether the evidence demonstrates that a claimed loss or breach is more likely than not to have occurred. ([watermanresidential.co.uk][2])
+
+---
+
+## Burden of Proof
+
+The tenancy deposit legally remains the tenant’s money unless the landlord proves entitlement to deductions.
+
+The landlord must demonstrate:
+
+1. a breach of the tenancy agreement
+2. deterioration beyond fair wear and tear
+3. financial loss suffered
+4. that the deduction claimed is reasonable
+
+If the landlord cannot provide sufficient evidence, the disputed amount is normally returned to the tenant. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+# Evidence Review Process
+
+## Evidence Submission
+
+Both landlord and tenant may submit evidence supporting their position.
+
+Common evidence includes:
+
+* signed tenancy agreements
+* check-in inventories
+* check-out reports
+* date-stamped photographs and videos
+* invoices and quotations
+* rent account statements
+* inspection reports
+* emails and written communication
+* witness statements
+
+Comparative evidence showing the property condition at both the start and end of the tenancy is particularly important. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+## Adjudicator Assessment
+
+Adjudicators evaluate:
+
+* consistency of evidence
+* credibility and reliability
+* completeness of documentation
+* relevance to the disputed issue
+
+The adjudicator may also assess:
+
+* fair wear and tear
+* depreciation
+* lifespan of items
+* proportionality of deductions
+* potential betterment
+
+Awards may involve:
+
+* repair costs
+* cleaning costs
+* partial compensation
+* apportioned replacement costs
+
+rather than full replacement value. ([custodial.tenancydepositscheme.com][1])
+
+---
+
+# Landlord Responsibilities
+
+Landlords should:
+
+* protect deposits correctly
+* maintain detailed tenancy records
+* prepare signed inventories
+* document property condition
+* retain invoices and receipts
+* provide evidence supporting deductions
+
+Landlords should ensure evidence is submitted within scheme deadlines because additional evidence may not normally be accepted later in the process. ([Housing Rights][3])
+
+---
+
+# Tenant Responsibilities
+
+Tenants should:
+
+* review inventories carefully
+* retain copies of tenancy documents
+* photograph the property before leaving
+* attend check-out inspections where possible
+* keep written communication records
+* challenge deductions promptly if disputed
+
+Tenants may also submit evidence supporting fair wear and tear, pre-existing defects, or unresolved maintenance problems.
+
+---
+
+# Binding Decisions and Court Escalation
+
+ADR decisions are generally final and binding once both parties consent to the process.
+
+Challenges are usually limited to situations involving:
+
+* errors of fact
+* errors of law
+
+Certain disputes may be referred to court instead of ADR, particularly where cases involve:
+
+* allegations of fraud
+* criminal activity
+* highly complex factual disputes
+
+Court proceedings may also remain available where parties decline ADR. ([custodial.tenancydepositscheme.com][1])
+
+[1]: https://custodial.tenancydepositscheme.com/public/support/joint-scheme-guide-to-deposits-disputes-and-damages-digital.pdf?utm_source=chatgpt.com "Key Documents"
+[2]: https://watermanresidential.co.uk/wp-content/uploads/2022/08/Aguidetodepositsdisputesanddamages.pdf?utm_source=chatgpt.com "A guide to deposits disputes and damages"
+[3]: https://www.housingrights.org.uk/landlords/deposits/disputes-over-tenancy-deposits?utm_source=chatgpt.com "Disputes over tenancy deposits"

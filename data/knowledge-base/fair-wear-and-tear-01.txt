@@ -1,0 +1,209 @@
+# Guide to Deposits, Disputes and Damages
+
+## Overview of Tenancy Deposit Protection
+
+Tenancy deposit protection legislation was introduced in April 2007 for assured shorthold tenancies in England and Wales.
+
+Residential landlords who take a financial deposit must protect it using a government-approved tenancy deposit protection provider.
+
+There are two types of protection:
+
+### Custodial Protection
+
+* The landlord transfers the deposit to the scheme provider.
+* The provider holds the deposit for the duration of the tenancy.
+* At tenancy end, the deposit is repaid according to agreement between landlord and tenant.
+* If there is a dispute, the provider continues holding the disputed amount until adjudication or a court order.
+
+### Insurance-Backed Protection
+
+* The landlord keeps the deposit and pays a fee to insure it through the provider.
+* If a dispute arises, the disputed amount should be transferred to the scheme while adjudication takes place.
+* The dispute process can still continue even if the landlord initially fails to transfer the disputed amount.
+
+---
+
+# What Happens at the End of a Tenancy
+
+At tenancy end, the landlord and tenant, or a representative such as an independent inventory clerk, should complete a check-out inspection and report.
+
+The check-out report is used to:
+
+* confirm the property condition
+* compare against the original inventory
+* agree how the deposit should be divided
+
+Most deposits are returned without dispute. Where agreement cannot be reached, the deposit protection provider offers a free dispute resolution service.
+
+---
+
+# What Is Dispute Resolution?
+
+Dispute resolution is a free alternative to court proceedings provided by tenancy deposit schemes.
+
+The process involves:
+
+1. The landlord submitting evidence supporting deductions.
+2. The tenant submitting evidence in response.
+3. An independent adjudicator reviewing both sides.
+4. The adjudicator deciding how the deposit should be distributed.
+
+The process is evidence-based. Parties do not attend hearings and adjudicators do not visit the property.
+
+Some disputes may instead be referred to court, particularly where there are:
+
+* allegations of fraud
+* criminal matters
+* highly complex disputes
+
+---
+
+# Burden of Proof
+
+The tenancy deposit legally remains the tenant’s money unless the landlord proves entitlement to deductions.
+
+The landlord carries the burden of proof.
+
+Claims are assessed on the civil standard of proof: the balance of probabilities.
+
+The adjudicator must be persuaded that:
+
+* the tenant breached the tenancy agreement
+* the landlord suffered financial loss as a result
+
+---
+
+# Evidence Required for Deposit Claims
+
+Good evidence is critical to successful claims and dispute resolution.
+
+## Essential Evidence
+
+### Signed Tenancy Agreement
+
+The tenancy agreement establishes contractual obligations and is essential in most disputes.
+
+Without it, claims are likely to fail.
+
+### Signed Check-In and Check-Out Inventory Reports
+
+Inventories are among the most important documents in deposit disputes.
+
+Strong inventories generally:
+
+* are detailed and descriptive
+* include dated photographs
+* are signed by tenants
+* are prepared independently where possible
+
+Without comparative inventory evidence, claims for cleaning or damage are likely to fail.
+
+### Date-Stamped Photographs or Videos
+
+Photographs should:
+
+* clearly show alleged damage or defects
+* include explanatory descriptions
+* ideally be date-stamped
+* compare condition before and after tenancy
+
+Electronic originals are preferred over photocopies.
+
+### Invoices, Quotes and Receipts
+
+These may support claims relating to:
+
+* cleaning
+* repairs
+* gardening
+* replacement items
+* waste removal
+
+Invoices should ideally itemise work completed and associated costs.
+
+Quotes and estimates are weaker evidence than paid invoices but may still be considered.
+
+### Correspondence Between Parties
+
+Useful evidence can include:
+
+* emails
+* letters
+* text messages
+* messaging app conversations
+
+This may help establish timelines, agreements, admissions of liability, or repair reporting.
+
+### Periodic Inspection Reports
+
+Mid-tenancy inspection reports may help demonstrate ongoing condition issues and communications with tenants.
+
+### Witness Statements
+
+Statements from contractors, surveyors, or third parties may support claims, although adjudicators will not interview witnesses directly.
+
+---
+
+# Common Types of Claims
+
+Common deposit claims include:
+
+* rent arrears
+* cleaning
+* damage to property or items
+* gardening
+* contractor fees
+* outstanding utility bills
+
+For cleaning claims, tenants are only required to return the property to the same standard of cleanliness as at the start of the tenancy.
+
+“Standard cleaning charges” may be rejected if disproportionate.
+
+---
+
+# Fair Wear and Tear
+
+Fair wear and tear refers to deterioration caused by ordinary use and natural ageing.
+
+Adjudicators commonly consider:
+
+* tenancy length
+* number and age of occupiers
+* quality and age of items
+* expected lifespan of fixtures and furnishings
+
+Examples of wear and tear may include:
+
+* minor carpet marks
+* gradual fading
+* normal scuffs
+
+Negligent damage, such as burns or spills, may justify deductions.
+
+---
+
+# Betterment
+
+Landlords cannot use the deposit to improve the property or obtain “new for old” replacement value.
+
+Adjudicators consider:
+
+* item age
+* remaining lifespan
+* depreciation
+* reasonable contribution towards replacement
+
+For example, if an old carpet is damaged after several years of tenancy, a tenant may only be liable for part of the replacement cost rather than the full amount.
+
+---
+
+# Adjudicator Decisions
+
+Adjudicators are independent and impartial.
+
+Their decisions are:
+
+* based solely on submitted evidence
+* final and legally binding unless challenged through court for an error of law or fact
+
+Landlords and tenants may still negotiate and settle disputes privately before a final adjudication decision is issued.
