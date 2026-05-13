@@ -23,13 +23,22 @@ interface PersistAnalysisInput {
 
 function getNeo4jConfig() {
   const uri = process.env.NEO4J_URI
+  const queryApiUrl = process.env.NEO4J_QUERY_API_URL
   const username = process.env.NEO4J_USERNAME
   const password = process.env.NEO4J_PASSWORD
   const database = process.env.NEO4J_DATABASE ?? 'neo4j'
 
-  if (!uri || !username || !password) return null
+  if ((!uri && !queryApiUrl) || !username || !password) return null
 
-  const host = uri
+  if (queryApiUrl) {
+    return {
+      endpoint: queryApiUrl,
+      username,
+      password,
+    }
+  }
+
+  const host = uri!
     .replace(/^neo4j\+s:\/\//, '')
     .replace(/^neo4j:\/\//, '')
     .replace(/^bolt\+s:\/\//, '')
