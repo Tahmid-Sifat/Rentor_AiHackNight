@@ -75,7 +75,7 @@ async function runNeo4jQuery<T>(
       statement: oneLineCypher(statement),
       parameters,
       txMetadata: {
-        appName: 'Deposit Defender AI',
+        appName: 'Rentor',
       },
     }),
   })

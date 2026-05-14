@@ -32,7 +32,7 @@ export default function CaseIntakeForm({ initial, onChange }: Props) {
   }
 
   const label = 'block text-sm font-medium text-gray-700 mb-1'
-  const input = 'w-full border border-gray-300 rounded-lg px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent'
+  const input = 'w-full border border-gray-300 rounded-lg bg-white px-3 py-2 text-sm text-gray-950 placeholder:text-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent'
 
   return (
     <div className="space-y-5">

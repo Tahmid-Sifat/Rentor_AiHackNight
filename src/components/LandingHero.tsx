@@ -25,7 +25,7 @@ export default function LandingHero() {
             className="bg-gradient-to-br from-white via-blue-100 to-indigo-300 bg-clip-text text-transparent"
             style={{ filter: 'drop-shadow(0 0 22px rgba(129, 140, 248, 0.35))' }}
           >
-            Deposit Defender AI
+            Rentor
           </span>
         </h1>
 

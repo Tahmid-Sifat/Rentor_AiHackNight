@@ -28,7 +28,7 @@ export default function Header() {
     if (pathname === '/demo') {
       return { title: 'Demo Case', path: '/demo' }
     }
-    return { title: 'Deposit Defender', path: '/' }
+    return { title: 'Rentor', path: '/' }
   }
 
   const breadcrumb = getBreadcrumbs()
@@ -46,10 +46,10 @@ export default function Header() {
           >
             <span className="text-lg sm:text-xl">🛡️</span>
             <span className="hidden sm:inline bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent whitespace-nowrap">
-              Deposit Defender AI
+              Rentor
             </span>
             <span className="sm:hidden bg-gradient-to-r from-white to-blue-200 bg-clip-text text-transparent">
-              DD AI
+              Rentor
             </span>
           </Link>
 

@@ -1,4 +1,4 @@
-# Deposit Defender AI
+# Rentor
 
 An agentic RAG assistant that helps UK tenants challenge unfair landlord deposit deductions with evidence-backed dispute responses.
 
